@@ -1,1 +1,2 @@
 # SVHN-using-CNN
+The aim of this paper is to describe how to recognize multiple digits displayed in complex images using Street view house numbers Dataset by Google using Convolutional Neural Network. Therefore, we have picked the CNN architecture because it is popular and seen so far to be an efficient neural network algorithm that can recognize features with a significant high accuracy in a large dataset. We carried out experiments and finally achieved an accuracy of 95% for an SVHN dataset.
